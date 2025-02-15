@@ -12,7 +12,6 @@ import pages.LoginPage;
 
 public class LoginSteps extends CommonMethods { // Extend BaseTest
 
-
     @Given("User is on the login page")
     public void userIsOnTheLoginPage() throws InterruptedException {
         System.out.println("I am on the login page");
