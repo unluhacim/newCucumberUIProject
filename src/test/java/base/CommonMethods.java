@@ -13,6 +13,7 @@ import java.util.List;
 import java.util.Set;
 
 public class CommonMethods extends PageInitializer{
+
     public static void sendTextEnter(WebElement element, String text) {
         element.clear();
         element.sendKeys(text, Keys.ENTER);

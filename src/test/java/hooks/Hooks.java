@@ -22,11 +22,11 @@ public class Hooks extends BaseTest {
     @After
     public void afterScenario(Scenario scenario) {
         System.out.println("Finished scenario: " + scenario.getName());
-        if (scenario.isFailed()) {
-            // Take screenshot on failure
-            final byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
-            scenario.attach(screenshot, "image/png", "screenshot.png");
-        }
+//        if (scenario.isFailed()) {
+//            // Take screenshot on failure
+//            final byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
+//            scenario.attach(screenshot, "image/png", "screenshot.png");
+//        }
         BaseTest.tearDown();
     }
 }
