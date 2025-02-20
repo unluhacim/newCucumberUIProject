@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="278ec169-20a1-414f-9b66-4195fa9ee138" name="Changes" comment="Commit from Intellij">
-      <change afterPath="$PROJECT_DIR$/src/test/java/example/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/example/InterviewQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/study/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="278ec169-20a1-414f-9b66-4195fa9ee138" name="Changes" comment="Commit from Intellij" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,23 +40,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Child.executor": "Run",
-    "Application.InterviewQ.executor": "Run",
-    "Cucumber Java.Feature: Login.executor": "Run",
-    "JUnit.TestRunner.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/munlu/IdeaProjects/newCucumberUIProject",
-    "onboarding.tips.debug.path": "C:/Users/munlu/IdeaProjects/CucumberUIProject/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Child.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterviewQ.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Login.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/munlu/IdeaProjects/newCucumberUIProject&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/munlu/IdeaProjects/CucumberUIProject/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.InterviewQ">
+}</component>
+  <component name="RunManager" selected="JUnit.TestRunner">
     <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example.Child" />
       <module name="CucumberUIProject" />
@@ -124,9 +119,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Application.InterviewQ" />
         <item itemvalue="Application.Child" />
-        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Cucumber Java.Feature: Login" />
       </list>
     </recent_temporary>
@@ -156,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739855052260</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit from Intellij">
+      <option name="closed" value="true" />
+      <created>1739936198971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739936198971</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
